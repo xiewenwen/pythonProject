@@ -1,0 +1,116 @@
+{
+  "uid" : "d37ab319f189d7a3",
+  "name" : "test_tt",
+  "fullName" : "test_model.TestModel#test_tt",
+  "historyId" : "fb0ecd965656702267e18b4d4333669a",
+  "time" : {
+    "start" : 1605324364992,
+    "stop" : 1605324364992,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1605324364991,
+      "stop" : 1605324364991,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Module__pytest_setup_module",
+    "time" : {
+      "start" : 1605324364990,
+      "stop" : 1605324364991,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1605324364992,
+      "stop" : 1605324364992,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Module__pytest_setup_module::0",
+    "time" : {
+      "start" : 1605324364995,
+      "stop" : 1605324364995,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试ssss输出成功"
+  }, {
+    "name" : "feature",
+    "value" : "模型测试模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_model"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestModel"
+  }, {
+    "name" : "host",
+    "value" : "xiewenwendeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1424-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_model"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d37ab319f189d7a3.json",
+  "parameterValues" : [ ]
+}

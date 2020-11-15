@@ -1,0 +1,93 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "模型测试模块",
+    "children" : [ {
+      "name" : "测试test_tt",
+      "children" : [ {
+        "name" : "test_tt",
+        "uid" : "f7c0cbff0e6a4f51",
+        "parentUid" : "4d809da1f0558fbe91482eef873916b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605328797729,
+          "stop" : 1605328797729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d809da1f0558fbe91482eef873916b4"
+    }, {
+      "name" : "测试test_mm",
+      "children" : [ {
+        "name" : "test_mm",
+        "uid" : "79b2860de22ac44f",
+        "parentUid" : "a2a454c8732c4abf9cfa85cba91907ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605328797731,
+          "stop" : 1605328797731,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a2a454c8732c4abf9cfa85cba91907ed"
+    }, {
+      "name" : "测试test_ff",
+      "children" : [ {
+        "name" : "test_ff",
+        "uid" : "9bdfafaa4e0ca57f",
+        "parentUid" : "20ad2512839ae599f3f268a85fb89964",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605328797733,
+          "stop" : 1605328797733,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20ad2512839ae599f3f268a85fb89964"
+    } ],
+    "uid" : "d246df41f9f3f4b34e84c2c7fb4702dd"
+  }, {
+    "name" : "testsum[1-2-3]",
+    "uid" : "5c269b4f86679f82",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1605328797735,
+      "stop" : 1605328797736,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ "1", "2", "3" ]
+  }, {
+    "name" : "testsum[2-3-5]",
+    "uid" : "c3819871c099a6d4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1605328797738,
+      "stop" : 1605328797738,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "2", "3", "5" ]
+  }, {
+    "name" : "testsum[3-3-6]",
+    "uid" : "5952babf43927cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1605328797740,
+      "stop" : 1605328797740,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ "3", "3", "6" ]
+  } ]
+}

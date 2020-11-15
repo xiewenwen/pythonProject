@@ -1,0 +1,56 @@
+{
+  "uid" : "2bb80ea194823919",
+  "name" : "testsum[1-2-3]",
+  "fullName" : "test_num2#testsum",
+  "historyId" : "8865a1ab23e7805aadfb0c84cd06a432",
+  "time" : {
+    "start" : 1605324936202,
+    "stop" : 1605324936202,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_num2"
+  }, {
+    "name" : "host",
+    "value" : "xiewenwendeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1543-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_num2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "1"
+  }, {
+    "name" : "b",
+    "value" : "2"
+  }, {
+    "name" : "wish",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bb80ea194823919.json",
+  "parameterValues" : [ "1", "2", "3" ]
+}

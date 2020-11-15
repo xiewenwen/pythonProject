@@ -1,0 +1,174 @@
+{
+  "uid" : "79b2860de22ac44f",
+  "name" : "test_mm",
+  "fullName" : "test_model.TestModel#test_mm",
+  "historyId" : "2a3255c7efea77818ebf5217a7a189b0",
+  "time" : {
+    "start" : 1605328797731,
+    "stop" : 1605328797731,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Module__pytest_setup_module",
+    "time" : {
+      "start" : 1605328797727,
+      "stop" : 1605328797727,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1605328797731,
+      "stop" : 1605328797731,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Module__pytest_setup_module::0",
+    "time" : {
+      "start" : 1605328797734,
+      "stop" : 1605328797734,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1605328797731,
+      "stop" : 1605328797732,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模型测试模块"
+  }, {
+    "name" : "story",
+    "value" : "测试test_mm"
+  }, {
+    "name" : "suite",
+    "value" : "test_model"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestModel"
+  }, {
+    "name" : "host",
+    "value" : "xiewenwendeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1759-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_model"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2bb340bc8851b85a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605325044922,
+        "stop" : 1605325044922,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3a4fbbdb8f0e2bce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605324936199,
+        "stop" : 1605324936199,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bdb73b1091ef84ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605324819988,
+        "stop" : 1605324819988,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a759c1dc7a752566",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605324364994,
+        "stop" : 1605324364994,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bf7784e2de05b0a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605324207934,
+        "stop" : 1605324207934,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d42ff9e4e2659667",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605323543814,
+        "stop" : 1605323543814,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fa34e84df0936f34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605323152430,
+        "stop" : 1605323152430,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79b2860de22ac44f.json",
+  "parameterValues" : [ ]
+}

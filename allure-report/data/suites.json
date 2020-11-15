@@ -1,0 +1,89 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_model",
+    "children" : [ {
+      "name" : "TestModel",
+      "children" : [ {
+        "name" : "test_tt",
+        "uid" : "f7c0cbff0e6a4f51",
+        "parentUid" : "f0810f11790a073fdca872bd9269fbde",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605328797729,
+          "stop" : 1605328797729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_mm",
+        "uid" : "79b2860de22ac44f",
+        "parentUid" : "f0810f11790a073fdca872bd9269fbde",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605328797731,
+          "stop" : 1605328797731,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_ff",
+        "uid" : "9bdfafaa4e0ca57f",
+        "parentUid" : "f0810f11790a073fdca872bd9269fbde",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605328797733,
+          "stop" : 1605328797733,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f0810f11790a073fdca872bd9269fbde"
+    } ],
+    "uid" : "573f053e936bf73c547a92466499b982"
+  }, {
+    "name" : "test_num2",
+    "children" : [ {
+      "name" : "testsum[1-2-3]",
+      "uid" : "5c269b4f86679f82",
+      "parentUid" : "77ab0443aecf6003e4a8dcd9d8b6e243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605328797735,
+        "stop" : 1605328797736,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ "1", "2", "3" ]
+    }, {
+      "name" : "testsum[2-3-5]",
+      "uid" : "c3819871c099a6d4",
+      "parentUid" : "77ab0443aecf6003e4a8dcd9d8b6e243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605328797738,
+        "stop" : 1605328797738,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ "2", "3", "5" ]
+    }, {
+      "name" : "testsum[3-3-6]",
+      "uid" : "5952babf43927cc",
+      "parentUid" : "77ab0443aecf6003e4a8dcd9d8b6e243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605328797740,
+        "stop" : 1605328797740,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ "3", "3", "6" ]
+    } ],
+    "uid" : "77ab0443aecf6003e4a8dcd9d8b6e243"
+  } ]
+}
