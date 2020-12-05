@@ -30,3 +30,22 @@ def testsum(a, b, wish):
 
 def test33():
     pass
+
+
+if __name__ == '__main__':
+    lis = [1, 2, 3, 4, 4]
+    # 返回的是索引 index(value,start,stop)
+    print(lis.index(2, 0, 3))
+    # count(value) 返回值的个数 时间复杂度O(n) 同index
+    print(lis.count(4))
+    # append(object) 返回None 时间复杂度O(1)
+    lis.append(2)
+    print(lis)
+    # insert(index,object) 时间复杂度O(n)
+    lis.insert(3, 999)
+    print(lis)
+    #批量扩展列表的value
+    lis.extend([4, 4, 4, 4, 4])
+    print(lis)
+
+    lis.reverse()
